@@ -104,6 +104,10 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
+## Logging
+
+* [aiologger](https://github.com/b2wdigital/aiologger) - The builtin python logger is IO blocking. This means that using the builtin `logging` module will interfere with your async application performance. `aiologger` aims to be the standard Asynchronous non blocking logging.
+
 ## Misc
 
 *Other awesome asyncio libraries.*
